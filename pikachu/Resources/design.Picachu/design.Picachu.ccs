@@ -1,0 +1,18 @@
+<Solution>
+  <PropertyGroup Name="design.Picachu" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Image Name="background-day.png" />
+        <Image Name="button_exit.jpg" />
+        <Image Name="Untitled-1.png" />
+        <Image Name="Untitled-2.png" />
+        <Image Name="Untitled3.png" />
+        <Image Name="Untitled-4.png" />
+        <Folder Name="csb">
+          <Project Name="MainMenu.csd" Type="Layer" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
